@@ -1,4 +1,4 @@
-# NorthnLoans
+# NorthnLoans - Ontario Payday Loans
 
 Are you a resident of Ontario? It's a beautiful place to live, yet residents from any province or nation may face financial difficulties and short-term cash shortages from time to time.
 Canadians may face difficulties finding permanent work and may want quick financial assistance or online payday loans to help them and their families get through difficult times. 
